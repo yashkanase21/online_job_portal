@@ -1,0 +1,11 @@
+/* SigninSuccessPage.css */
+.btn-lg {
+    width: 100%; /* Full width button */
+    text-align: left; /* Align text to the left */
+}
+
+.d-flex.flex-column.align-items-start {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start (left) */
+}
